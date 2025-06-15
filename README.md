@@ -89,7 +89,7 @@ Contributions are welcome! If you have ideas for improvements, discover more are
 
 ## 📄 License
 
-This software is distributed under the terms of the GNU Lesser General Public License, Version 3 (LGPLv3). A copy of the full license text is included in the `LICENSE` file within this distribution.
+This software is distributed under the terms of the GNU Lesser General Public License, Version 2.1 (LGPLv2.1). A copy of the full license text is included in the `LICENSE` file within this distribution.
 
 ---
 
@@ -97,6 +97,6 @@ This software is distributed under the terms of the GNU Lesser General Public Li
 
 This program is distributed in the hope that it will be useful, but **WITHOUT ANY WARRANTY**; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
-In no event shall the authors or copyright holders be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, data, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the use of this software, even if advised of the possibility of such damage.
+In no event shall the authors or copyright holders be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods and services; loss of use, data, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the use of this software, even if advised of the possibility of such damage.
 
 **USE THIS SOFTWARE AT YOUR OWN RISK.** You are solely responsible for any damage to your machine or loss of data that results from the use of this software.
